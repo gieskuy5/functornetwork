@@ -28,7 +28,7 @@ Register : https://node.securitylabs.xyz/?from=extension&type=signin&referralCod
 
 4. Run script:
    ```
-   python bot.py
+   python login.py
    ```
 ## Configuration
 
