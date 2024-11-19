@@ -32,4 +32,4 @@ Register : https://node.securitylabs.xyz/?from=extension&type=signin&referralCod
    ```
 ## Configuration
 
-1. Edit the `accounts.txt` file in the project root directory and add the email and password, one entry per line.
+1. Edit the `akun.txt` file in the project root directory and add the email and password, one entry per line.
